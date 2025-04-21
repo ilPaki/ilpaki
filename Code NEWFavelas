@@ -59,6 +59,17 @@
 						"text": "Nel server sono presenti due tipologie di Shop: \r\n\r\nSHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti che verranno assegnati automaticamente dal gioco ogni mezz'ora. \r\nQuesto shop spawnerà direttamente in gioco dino a livello 200 con statistiche casuali. \r\n(I dino acquatici vanno spawnati in acqua!!) \r\n\r\n-SHOP ADMIN: Vedere canale #Donazioni, per ogni € donato al server verranno assegnate 100 Fragole, le quali possono essere scambiate con i dino dello shop presente su discord #Shop-dino-e-oggetti. \r\nLe creature verranno spawnate con una statistica a scelta di almeno 50 punti altre info su discord. \r\n\r\nSe vedete solo 50 pacchetti nello Shop In-Game morite e respawnate (dovrebbero essere più di 100)."
 					}
 				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "EVENT",
+				"imageurl": "https://i.imgur.com/2NoXElA.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
 			}
 		],
 		"links": [
