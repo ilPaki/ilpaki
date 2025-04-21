@@ -1,0 +1,80 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/fs6OeYX.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/TdwvE63.png",
+				"content": [
+					{
+						"title": "WELCOME to NEWFavelas",
+						"text": "\r\n\r\n\r\nExperience Multiplier: x2\r\nResource Gathering: x2 (Dino x4)\r\nEgg Incubation: x40\r\nMaturation: x30\r\nTaming: x6\r\n\r\nMax Wild Dino Level: 150 \r\n\r\nTo get the Starter Pack, hold down Square or R, then open the Shop, choose the Hatchet icon and buy it. \r\n\r\nWe hope you enjoy the server, if you have any questions feel free to ask here or open a ticket on discord. \r\n\r\nHappy adventures!\r\n"
+					},
+					{
+						"title": "BENVENUTI su NEWFavelas",
+						"text": "\r\n\r\n\r\nMoltiplicatore Esperienza: x2\r\nRaccolta Risorse: x2 (Dino x4)\r\nIncubazione Uova: x40\r\nMaturazione: x30\r\nAddomesticamento: x6\r\n\r\nLivello massimo dinosauri selvatici: 150\r\n\r\nPer ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \r\n\r\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord.\r\n\r\nBuona avventura! "
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "RULES",
+				"imageurl": "https://i.imgur.com/h5NXqtV.png",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "1. Respect and Fair Play – Treat everyone with respect. No    insults, discrimination, or toxic behavior.\r\n\r\n2. No Griefing – Intentionally obstructing other players is forbidden (e.g., blocking spawn points, stealing tames, destroying structures without reason).\r\n\r\n3. Admin & Staff – Staff decisions must be respected. If you have an issue, report it with proof (screenshots/videos).\r\n\r\n4. Do not block spawn points and resources – Do not build on spawn locations, caves with artifacts, or high-value areas (e.g., metal-rich mountains).\r\n\r\n5. No excessive building – Keep your base proportional to your needs to prevent server lag.\r\n\r\n6. No structure spam – Placing foundations or pillars just to claim land is strictly prohibited.\r\n\r\n7. Traps – Traps must always be removed after use. Any traps found by admins will be deleted without warning.\r\n\r\n8. Abandoned Dinosaurs – Any abandoned dinosaurs will be killed by admins, even if purchased from the shop.\r\n\r\n9. No Loot Stealing – Do not steal drops or loot from other players' bodies without permission.\r\n\r\nIT IS STRICTLY FORBIDDEN TO TRADE OR SELL DINOS OBTAINED FROM THE SHOP. IF DISCOVERED, AN IMMEDIATE BAN WILL BE ISSUED. "
+					},
+					{
+						"title": "Regolamento",
+						"text": "1. Rispetto e Fair Play – Tratta tutti con rispetto, niente insulti, discriminazioni o comportamenti tossici.\r\n\r\n2. No Griefing – Vietato ostacolare intenzionalmente altri giocatori (es. bloccare spawn, rubare tame, distruggere strutture senza motivo).\r\n\r\n3. Admin e Staff – Le decisioni dello staff vanno rispettate. Se hai un problema, segnala con prove (screenshot/video).\r\n\r\n4. Evita di bloccare spawn e risorse – Non costruire su punti di spawn, grotte con artefatti o aree di alto valore (es. montagne piene di metallo).\r\n\r\n5. No costruzioni eccessive – Mantieni la base proporzionata alle tue esigenze per evitare lag sul server.\r\n\r\n6. No spam di strutture – Vietato piazzare fondazioni o pilastri solo per claimare aree inutilmente.\r\n\r\n7. Trappole – Le trappole devono essere sempre rimosse dopo l’uso. Qualsiasi trappola trovata dagli admin verrà eliminata senza preavviso.\r\n\r\n8. Dinosauri abbandonati – Qualsiasi dinosauro abbandonato verrà ucciso dagli admin, anche se acquistato dallo shop.\r\n\r\n9. No Loot Stealing – Non rubare drop o corpi di altri giocatori senza permesso.\r\n\r\nASSOLUTAMENTE VIETATO SCAMBIARE E VENDERE DINO OTTENUTI DALLO SHOP IN CASO CHE VENGA SCOPERTO IL BAN SARÀ IMMEDIATO"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Shop",
+				"imageurl": "https://i.imgur.com/agqcCPd.jpeg",
+				"content": [
+					{
+						"title": "",
+						"text": "There are two types of Shops on the server: \r\n\r\nSHOP IN-GAME: consultable from the radial menu, it will work with the points that will be assigned automatically by the game every half hour. \r\nThis shop will spawn directly in the game dino at level 200 with random statistics. \r\n(Aquatic dinos must be spawned in water!!) \r\n\r\n-SHOP ADMIN: See channel #Donations, for every € donated to the server 100 Strawberries will be assigned, which can be exchanged for dinos from the shop on discord #Shop-dino-and-objects. \r\nThe creatures will be spawned with a statistic of your choice of at least 50 points, more info on discord. \r\n\r\nIf you only see 50 packages in the In-Game Shop, die and respawn (there should be more than 100)."
+					},
+					{
+						"title": "",
+						"text": "Nel server sono presenti due tipologie di Shop: \r\n\r\nSHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti che verranno assegnati automaticamente dal gioco ogni mezz'ora. \r\nQuesto shop spawnerà direttamente in gioco dino a livello 200 con statistiche casuali. \r\n(I dino acquatici vanno spawnati in acqua!!) \r\n\r\n-SHOP ADMIN: Vedere canale #Donazioni, per ogni € donato al server verranno assegnate 100 Fragole, le quali possono essere scambiate con i dino dello shop presente su discord #Shop-dino-e-oggetti. \r\nLe creature verranno spawnate con una statistica a scelta di almeno 50 punti altre info su discord. \r\n\r\nSe vedete solo 50 pacchetti nello Shop In-Game morite e respawnate (dovrebbero essere più di 100)."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/KaF5eZYVkj"
+			},
+			{
+				"text": "Wiki",
+				"url": "https://ark.wiki.gg/it/"
+			},
+			{
+				"text": "DodoDex",
+				"url": "https://www.dododex.com/"
+			}
+		],
+		"version": 2
+	}
+}
