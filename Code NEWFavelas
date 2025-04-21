@@ -70,6 +70,17 @@
 						"text": ""
 					}
 				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Online Player",
+				"imageurl": "https://i.imgur.com/wuNmtF7.png",
+				"content": [
+					{
+						"title": "",
+						"text": "{playerlist}"
+					}
+				]
 			}
 		],
 		"links": [
@@ -84,6 +95,10 @@
 			{
 				"text": "DodoDex",
 				"url": "https://www.dododex.com/"
+			},
+			{
+				"text": "Shiny",
+				"url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
 			}
 		],
 		"version": 2
