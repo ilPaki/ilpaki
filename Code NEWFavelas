@@ -22,11 +22,11 @@
 				"content": [
 					{
 						"title": "WELCOME to NEWFavelas",
-						"text": "\r\n\r\n\r\nExperience Multiplier: x2\r\nResource Gathering: x2 (Dino x4)\r\nEgg Incubation: x40\r\nMaturation: x30\r\nTaming: x6\r\n\r\nMax Wild Dino Level: 150 \r\n\r\nServer Restart: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nTo get the Starter Pack, hold down Square or R, then open the Shop, choose the Hatchet icon and buy it. \r\n\r\nWe hope you enjoy the server, if you have any questions feel free to ask here or open a ticket on discord. \r\n\r\nHappy adventures!\r\n"
+						"text": "\r\nExperience Multiplier: x2\r\nResource Gathering: x2 (Dino x4)\r\nEgg Incubation: x40\r\nMaturation: x30\r\nTaming: x6\r\n\r\nMax Wild Dino Level: 150 \r\n\r\nServer Restart: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nTo get the Starter Pack, hold down Square or R, then open the Shop, choose the Hatchet icon and buy it. \r\n\r\nWe hope you enjoy the server, if you have any questions feel free to ask here or open a ticket on discord. \r\n\r\nHappy adventures!\r\n"
 					},
 					{
 						"title": "BENVENUTI su NEWFavelas",
-						"text": "\r\n\r\n\r\nMoltiplicatore Esperienza: x2\r\nRaccolta Risorse: x2 (Dino x4)\r\nIncubazione Uova: x40\r\nMaturazione: x30\r\nAddomesticamento: x6\r\n\r\nLivello massimo dinosauri selvatici: 150\r\n\r\nRiavvio Server: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nPer ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \r\n\r\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord.\r\n\r\nBuona avventura! "
+						"text": "\r\nMoltiplicatore Esperienza: x2\r\nRaccolta Risorse: x2 (Dino x4)\r\nIncubazione Uova: x40\r\nMaturazione: x30\r\nAddomesticamento: x6\r\n\r\nLivello massimo dinosauri selvatici: 150\r\n\r\nRiavvio Server: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nPer ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \r\n\r\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord.\r\n\r\nBuona avventura! "
 					}
 				]
 			},
@@ -62,8 +62,19 @@
 			},
 			{
 				"layout": 1,
+				"buttontext": "EVENTO",
+				"imageurl": "https://i.imgur.com/7u481Eb.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
 				"buttontext": "EVENT",
-				"imageurl": "https://i.imgur.com/2NoXElA.png",
+				"imageurl": "https://i.imgur.com/pS4WCeM.png",
 				"content": [
 					{
 						"title": "",
