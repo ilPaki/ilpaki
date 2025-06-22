@@ -62,28 +62,6 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "EVENTO",
-				"imageurl": "https://i.imgur.com/7u481Eb.png",
-				"content": [
-					{
-						"title": "",
-						"text": ""
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "EVENT",
-				"imageurl": "https://i.imgur.com/pS4WCeM.png",
-				"content": [
-					{
-						"title": "",
-						"text": ""
-					}
-				]
-			},
-			{
-				"layout": 1,
 				"buttontext": "Online Player",
 				"imageurl": "https://i.imgur.com/wuNmtF7.png",
 				"content": [
