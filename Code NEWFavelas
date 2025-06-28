@@ -4,7 +4,7 @@
 		"settings":
 		{
 			"openbutton": 1,
-			"hideicon": false,
+			"hideicon": true,
 			"hideiconafter": 60,
 			"iconurl": "https://i.imgur.com/fs6OeYX.png",
 			"disableicontext": false,
