@@ -1,0 +1,72 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/fs6OeYX.png",
+			"disableicontext": false,
+			"iconposition": 1,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/55Xx2Vq.jpeg",
+				"content": [
+					{
+						"title": "NEWFavelas - PRIMAL CHAOS",
+						"text": "We are thrilled to announce the opening of our new ARK: Survival Evolved server! This isn't just any server; it's a project born from the support and passion of our community. Our goal is to create an unforgettable, balanced, and fun gaming experience for everyone, from ARK veterans to new survivors.\r\n\r\nThis server is a true gift from the community to the community. Every contribution, big or small, has made this dream a reality. We are committed to reinvesting all the funds raised to constantly improve the gaming experience, adding new content, events, and ensuring a stable, high-performance server.\r\n\r\nWe can't wait for you to join us to explore, build, tame dinosaurs, and face new challenges together. Get ready for an epic adventure where collaboration and fun are at the heart of everything.\r\n\r\nA special thanks to all who believed in this project and made it happen. Now, it's time to play!"
+					},
+					{
+						"title": "NEWFavelas - PRIMAL CHAOS",
+						"text": "Siamo entusiasti di annunciare l'apertura del nostro nuovo server di ARK: Survival Evolved! Questo non è un server come gli altri, ma un progetto nato grazie al supporto e alla passione della nostra community. Il nostro obiettivo è creare un'esperienza di gioco indimenticabile, equilibrata e divertente per tutti, dai veterani di ARK ai nuovi sopravvissuti.\r\n\r\nQuesto server è un vero e proprio regalo da parte della community per la community. Ogni contributo, piccolo o grande, ha reso possibile questo sogno. Ci impegniamo a reinvestire tutti i fondi raccolti per migliorare costantemente l'esperienza di gioco, aggiungendo nuovi contenuti, eventi e assicurando un server stabile e performante.\r\n\r\nVi aspettiamo per esplorare, costruire, domare dinosauri e affrontare nuove sfide insieme. Preparatevi a vivere un'avventura epica, dove la collaborazione e il divertimento sono al centro di tutto.\r\n\r\nUn ringraziamento speciale a tutti coloro che hanno creduto in questo progetto e lo hanno reso realtà. Ora è il momento di giocare!"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "INFO",
+				"imageurl": "https://i.imgur.com/55Xx2Vq.jpeg",
+				"content": [
+					{
+						"title": "INFO SERVER",
+						"text": "**IMPORTANT**\r\nBEFORE STARTING YOUR ADVENTURE ON THIS SERVER, WE RECOMMEND READING THE MOD GUIDE.\r\nYou can find it on the dedicated Discord channel.\r\n\r\nExperience Multiplier: x2\r\nResource Gathering: x5 (Dino x10)\r\nEgg Incubation: x40\r\nMaturation: x30\r\nTaming: x10\r\n\r\nStat Player:\r\nHealth x5\r\nStamina x5\r\nWright x5\r\nMelee x2\r\nSpeed x3\r\nFortitude x2.5\r\nCrafting x2.5\r\n\r\nMax Wild Dino Level: 150 \r\n\r\nServer Restart: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nWe hope you enjoy the server, if you have any questions feel free to ask here or open a ticket on discord. \r\n\r\nHappy adventures!\r\n"
+					},
+					{
+						"title": "INFO SERVER",
+						"text": "**IMPORTANTE**\r\nPRIMA DI INIZIARE L'AVVENUTRA SU QUESTO SERVER TI COSNIGLIAMO DI LEGGERE LA GUIDA DELLA MOD.\r\nLa puoi trovare sul canale Discord dedicato.\r\n\r\nMoltiplicatore Esperienza: x2\r\nRaccolta Risorse: x5 (Dino x10)\r\nIncubazione Uova: x40\r\nMaturazione: x30\r\nAddomesticamento: x10\r\n\r\nStat Player:\r\nVita x5\r\nStamina x5\r\nPeso x5\r\nDanno x2\r\nVelocità x3\r\nTempra x2.5\r\nCrafting x2.5\r\n\r\nLivello massimo dinosauri selvatici: 150\r\n\r\nRiavvio Server: 6:30 (UTC +2)\r\n\r\nWipe Dino Wild: 6:00 - 18:00 (UTC+2)\r\n\r\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord.\r\n\r\nBuona avventura! \r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Online Player",
+				"imageurl": "https://i.imgur.com/55Xx2Vq.jpeg",
+				"content": [
+					{
+						"title": "",
+						"text": "{playerlist}"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/KaF5eZYVkj"
+			},
+			{
+				"text": "DodoDex",
+				"url": "https://www.dododex.com/"
+			}
+		],
+		"version": 2
+	}
+}
